@@ -125,7 +125,7 @@ nav ul li a {
   height: 640px;
   color: #fff;
   background-image: linear-gradient(rgba(64, 6, 97, 0.4), rgba(64, 6, 97, 0.4)),
-    url(./img/bn1.webp);
+    url(img/bn1.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
